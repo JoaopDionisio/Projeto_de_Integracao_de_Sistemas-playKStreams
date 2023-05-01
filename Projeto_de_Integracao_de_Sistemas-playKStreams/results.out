@@ -1,0 +1,324 @@
+Weather Station		690Weather Station		690Weather Station		690Weather Station		720
+Weather Station		720
+Weather Station		720
+1-		780
+1-		780
+1-		780
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+1. Count	temperature	readings	of	standard	weather	events	per	weather	station
+1. Count	temperature	readings	of	standard	weather	events	per	weather	station
+1. Count	temperature	readings	of	standard	weather	events	per	weather	station
+1. Count	temperature	readings	of	standard	weather	events	per	weather	station
+1. Count	temperature	readings	of	standard	weather	events	per	weather	station
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 180
+Weather Station: WS2		No. temperature readings: 180
+Weather Station: WS3		No. temperature readings: 180
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 210
+Weather Station: WS2		No. temperature readings: 210
+Weather Station: WS3		No. temperature readings: 210
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 240
+Weather Station: WS2		No. temperature readings: 240
+Weather Station: WS3		No. temperature readings: 240
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 270
+Weather Station: WS2		No. temperature readings: 270
+Weather Station: WS3		No. temperature readings: 270
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 300
+Weather Station: WS2		No. temperature readings: 300
+Weather Station: WS3		No. temperature readings: 300
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 330
+Weather Station: WS2		No. temperature readings: 330
+Weather Station: WS3		No. temperature readings: 330
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 360
+Weather Station: WS2		No. temperature readings: 360
+Weather Station: WS3		No. temperature readings: 360
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 390
+Weather Station: WS2		No. temperature readings: 390
+Weather Station: WS3		No. temperature readings: 390
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 420
+Weather Station: WS2		No. temperature readings: 420
+Weather Station: WS3		No. temperature readings: 420
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 450
+Weather Station: WS2		No. temperature readings: 450
+Weather Station: WS3		No. temperature readings: 450
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 510
+Weather Station: WS2		No. temperature readings: 510
+Weather Station: WS3		No. temperature readings: 510
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 30
+Weather Station: WS2		No. temperature readings: 30
+Weather Station: WS3		No. temperature readings: 30
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+Location: S.Jose		No. temperature readings: 12
+Location: Portela		No. temperature readings: 12
+Location: Se Nova		No. temperature readings: 4
+Location: Solum		No. temperature readings: 16
+Location: Baixa		No. temperature readings: 9
+Location: Se Velha		No. temperature readings: 12
+Location: S.Martinho		No. temperature readings: 9
+Location: Celas		No. temperature readings: 16
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+Location: Portela		No. temperature readings: 10
+Location: Se Velha		No. temperature readings: 11
+Location: S.Jose		No. temperature readings: 14
+Location: Solum		No. temperature readings: 11
+Location: Se Nova		No. temperature readings: 14
+Location: Baixa		No. temperature readings: 10
+Location: Celas		No. temperature readings: 12
+Location: S.Martinho		No. temperature readings: 8
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+Location: S.Jose		No. temperature readings: 19
+Location: Celas		No. temperature readings: 20
+Location: Se Nova		No. temperature readings: 33
+Location: Baixa		No. temperature readings: 16
+Location: S.Martinho		No. temperature readings: 26
+Location: Se Velha		No. temperature readings: 21
+Location: Portela		No. temperature readings: 22
+Location: Solum		No. temperature readings: 23
+Location: Solum		No. temperature readings: 25
+Location: Se Nova		No. temperature readings: 40
+Location: S.Martinho		No. temperature readings: 36
+Location: Baixa		No. temperature readings: 33
+Location: Celas		No. temperature readings: 34
+Location: Se Velha		No. temperature readings: 31
+Location: Portela		No. temperature readings: 37
+Location: S.Jose		No. temperature readings: 34
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+Location: S.Jose		No. temperature readings: 40
+Location: Baixa		No. temperature readings: 45
+Location: Se Nova		No. temperature readings: 59
+Location: Celas		No. temperature readings: 46
+Location: Solum		No. temperature readings: 31
+Location: Se Velha		No. temperature readings: 46
+Location: Portela		No. temperature readings: 51
+Location: S.Martinho		No. temperature readings: 42
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 30
+Weather Station: WS2		No. temperature readings: 30
+Weather Station: WS3		No. temperature readings: 30
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+4. Get	minimum	and	maximum	temperature	per	location.
+4. Get	minimum	and	maximum	temperature	per	location.
+4. Get	minimum	and	maximum	temperature	per	location.
+4. Get	minimum	and	maximum	temperature	per	location.
+4. Get	minimum	and	maximum	temperature	per	location.
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+6. Count	the	total	alerts	per	type 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+8. Get maximum temperature of each location of alert events for the last hour 
+9. Get minimum temperature per weather station in red alert zones 
+11. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+6. Count	the	total	alerts	per	type 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+8. Get maximum temperature of each location of alert events for the last hour 
+9. Get minimum temperature per weather station in red alert zones 
+11. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+Weather Station: WS1		No. temperature readings: 60
+Weather Station: WS2		No. temperature readings: 60
+Weather Station: WS3		No. temperature readings: 60
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 90
+Weather Station: WS2		No. temperature readings: 90
+Weather Station: WS3		No. temperature readings: 90
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 120
+Weather Station: WS2		No. temperature readings: 120
+Weather Station: WS3		No. temperature readings: 120
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 30
+Weather Station: WS2		No. temperature readings: 30
+Weather Station: WS3		No. temperature readings: 30
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 60
+Weather Station: WS2		No. temperature readings: 60
+Weather Station: WS3		No. temperature readings: 60
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 90
+Weather Station: WS2		No. temperature readings: 90
+Weather Station: WS3		No. temperature readings: 90
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 120
+Weather Station: WS2		No. temperature readings: 120
+Weather Station: WS3		No. temperature readings: 120
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 150
+Weather Station: WS2		No. temperature readings: 150
+Weather Station: WS3		No. temperature readings: 150
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 180
+Weather Station: WS2		No. temperature readings: 180
+Weather Station: WS3		No. temperature readings: 180
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 210
+Weather Station: WS2		No. temperature readings: 210
+Weather Station: WS3		No. temperature readings: 210
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 240
+Weather Station: WS2		No. temperature readings: 240
+Weather Station: WS3		No. temperature readings: 240
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 270
+Weather Station: WS2		No. temperature readings: 270
+Weather Station: WS3		No. temperature readings: 270
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 30
+Weather Station: WS2		No. temperature readings: 30
+Weather Station: WS3		No. temperature readings: 30
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+Weather Station: WS1		No. temperature readings: 60
+Weather Station: WS2		No. temperature readings: 60
+Weather Station: WS3		No. temperature readings: 60
+Weather Station: WS1		No. temperature readings: 90
+Weather Station: WS2		No. temperature readings: 90
+Weather Station: WS3		No. temperature readings: 90
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+4. Get	minimum	and	maximum	temperature	per	location.
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+6. Count	the	total	alerts	per	type 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+8. Get maximum temperature of each location of alert events for the last hour 
+9. Get minimum temperature per weather station in red alert zones 
+11. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+Weather Station: WS1		No. temperature readings: 60
+Weather Station: WS2		No. temperature readings: 60
+Weather Station: WS3		No. temperature readings: 60
+Location: Portela		No. temperature readings: 15
+Location: S.Martinho		No. temperature readings: 22
+Location: Se Velha		No. temperature readings: 24
+Location: S.Jose		No. temperature readings: 26
+Location: Solum		No. temperature readings: 18
+Location: Se Nova		No. temperature readings: 20
+Location: Celas		No. temperature readings: 29
+Location: Baixa		No. temperature readings: 26
+Weather Station: WS1		No. temperature readings: 150
+Weather Station: WS2		No. temperature readings: 150
+Weather Station: WS3		No. temperature readings: 150
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+4. Get	minimum	and	maximum	temperature	per	location.
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+6. Count	the	total	alerts	per	type 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+8. Get maximum temperature of each location of alert events for the last hour 
+9. Get minimum temperature per weather station in red alert zones 
+11. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+Weather Station: WS1		No. temperature readings: 90
+Weather Station: WS2		No. temperature readings: 90
+Weather Station: WS3		No. temperature readings: 90
+Weather Station: WS1		No. temperature readings: 180
+Weather Station: WS2		No. temperature readings: 180
+Weather Station: WS3		No. temperature readings: 180
+Location: S.Jose		No. temperature readings: 39
+Location: Celas		No. temperature readings: 42
+Location: Portela		No. temperature readings: 24
+Location: Baixa		No. temperature readings: 36
+Location: Se Velha		No. temperature readings: 41
+Location: S.Martinho		No. temperature readings: 30
+Location: Solum		No. temperature readings: 32
+Location: Se Nova		No. temperature readings: 26
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+4. Get	minimum	and	maximum	temperature	per	location.
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+6. Count	the	total	alerts	per	type 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+8. Get maximum temperature of each location of alert events for the last hour 
+9. Get minimum temperature per weather station in red alert zones 
+11. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+Location: Celas		No. temperature readings: 52
+Location: Solum		No. temperature readings: 43
+Location: S.Martinho		No. temperature readings: 36
+Location: Se Velha		No. temperature readings: 49
+Location: S.Jose		No. temperature readings: 52
+Location: Portela		No. temperature readings: 38
+Location: Se Nova		No. temperature readings: 38
+Location: Baixa		No. temperature readings: 52
+Weather Station: WS1		No. temperature readings: 210
+Weather Station: WS2		No. temperature readings: 210
+Weather Station: WS3		No. temperature readings: 210
+Weather Station: WS1		No. temperature readings: 120
+Weather Station: WS2		No. temperature readings: 120
+Weather Station: WS3		No. temperature readings: 120
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+2. Count	temperature	readings	of	standard	weather	events	per	weather	location
+3. Get	minimum	and	maximum	temperature	per	weather	station.
+4. Get	minimum	and	maximum	temperature	per	location.
+1. Count    temperature    readings    of    standard    weather    events    per    weather    station
+6. Count	the	total	alerts	per	type 
+7. Get	minimum	temperature of	weather	stations	with	red	alert	events 
+8. Get maximum temperature of each location of alert events for the last hour 
+9. Get minimum temperature per weather station in red alert zones 
+11. Get the average temperature of weather stations with red alert events for the last hour 
+Weather Station: WS1		No. temperature readings: 240
+Weather Station: WS2		No. temperature readings: 240
+Weather Station: WS3		No. temperature readings: 240
+Weather Station: WS1		No. temperature readings: 150
+Weather Station: WS2		No. temperature readings: 150
+Weather Station: WS3		No. temperature readings: 150
+Location: Portela		No. temperature readings: 46
+Location: S.Martinho		No. temperature readings: 51
+Location: Solum		No. temperature readings: 60
+Location: Se Velha		No. temperature readings: 60
+Location: Baixa		No. temperature readings: 68
+Location: Celas		No. temperature readings: 59
+Location: S.Jose		No. temperature readings: 61
+Location: Se Nova		No. temperature readings: 45
